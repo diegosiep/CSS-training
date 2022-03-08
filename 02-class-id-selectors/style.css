@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(252, 179, 235);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#pair {
+    color:rgb(52, 193, 245);
+    font-size: 36px;
+}
+
+#pairing {
+    background-color: rgb(195, 253, 171);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.odd-thing {
+    font-size: 24px;
+}
